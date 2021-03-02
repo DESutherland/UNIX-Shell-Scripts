@@ -5,6 +5,8 @@
 # Creation Date: 02/20/21
 # Last Revision: 02/24/21
 
+# Configuring a basic firewall using iptables
+
 # We will flush all existing iptable rules to start
 sudo iptables -F
 
